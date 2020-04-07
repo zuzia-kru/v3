@@ -24,7 +24,9 @@ This exercise deals with cooking a lasagna dish in the oven. The reference imple
 | ----- | ------------------------------- | ---------------------------------- |
 | C#    | [basics][implementation-csharp] | None                               |
 | F#    | [basics][implementation-fsharp] | Does not update a variable's value |
+| Elixir | [basics][implementation-elixir] | Introduces binding values rather than assignment |
 
 [implementation-csharp]: ../../languages/csharp/exercises/concept/basics/.docs/introduction.md
 [implementation-fsharp]: ../../languages/fsharp/exercises/concept/basics/.docs/introduction.md
+[implementation-elixir]: ../../languages/elixir/exercises/concept/basics/.docs/introduction.md
 [concept-variables]: ./variables.md
