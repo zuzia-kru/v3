@@ -167,4 +167,4 @@ The concept exercises use the following concepts:
 
 | concept | interpretation |
 | --- | --- |
-| `default-arguments` | Extract Elixir specifics from [official guide](https://elixir-lang.org/getting-started/modules-and-functions.html#default-arguments). |
+| `basics` | Introduction to functions, modules, variables, returning values, integers, invoking functions. |
