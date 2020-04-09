@@ -13,7 +13,7 @@
         "slug": "conditionals",
         "uuid": "b26a2f11-d80a-42b9-881a-3575a83ad211",
         "concepts": ["conditionals", "atoms"],
-        "prerequisites": ["basics", "booleans"]
+        "prerequisites": ["booleans"]
       }
     ],
     "practice": []
