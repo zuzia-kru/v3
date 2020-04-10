@@ -168,3 +168,4 @@ The concept exercises use the following concepts:
 | concept | interpretation |
 | --- | --- |
 | `basics` | Introduction to functions, modules, variables, returning values, integers, invoking functions. |
+| `booleans` | Introduction to the boolean type and strict boolean operators -- and/2, or/2, not/1 |
