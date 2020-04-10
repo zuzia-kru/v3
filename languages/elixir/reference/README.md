@@ -167,4 +167,5 @@ The concept exercises use the following concepts:
 
 | concept | interpretation |
 | --- | --- |
-| `conditionals` | Intro to elixir `cond/1` function and atoms. |
+| `atoms` | Intro to atoms |
+| `conditionals` | Intro to `cond/1` function. |
