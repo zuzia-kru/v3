@@ -12,6 +12,8 @@ This is done through implmentation of a kitchen calculator.
 - Know how to write a tuple literal
 - Know how to return a tuple from a function
 - Know how to extract an element from a tuple using `elem/2`
+- Know how to write a floating point literal
+- Know how to round a floating point number to decimal place or integer
 
 ## Out of scope
 
