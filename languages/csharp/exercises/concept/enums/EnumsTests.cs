@@ -5,7 +5,7 @@ public class LogLineTests
     [Fact]
     public void ParseTrace() =>
         Assert.Equal(LogLevel.Trace, LogLine.ParseLogLevel("[TRC]: Line 84 - Console.WriteLine('Hello World');"));
-        
+
     [Fact(Skip = "Remove this Skip property to run this test")]
     public void ParseDebug() =>
         Assert.Equal(LogLevel.Debug, LogLine.ParseLogLevel("[DBG]: ; expected"));
@@ -17,7 +17,7 @@ public class LogLineTests
     [Fact(Skip = "Remove this Skip property to run this test")]
     public void ParseWarning() =>
         Assert.Equal(LogLevel.Warning, LogLine.ParseLogLevel("[WRN]: Timezone not set"));
-        
+
     [Fact(Skip = "Remove this Skip property to run this test")]
     public void ParseError() =>
         Assert.Equal(LogLevel.Error, LogLine.ParseLogLevel("[ERR]: Disk full"));
